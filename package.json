@@ -1,0 +1,23 @@
+{
+  "name": "homework83",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node swagger"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^16.0.3",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "http-errors": "~1.6.3",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "~1.9.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.1.2",
+    "sequelize": "^6.29.0",
+    "swagger-autogen": "^2.23.1",
+    "swagger-ui-express": "^4.6.1"
+  }
+}
