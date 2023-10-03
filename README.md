@@ -1,5 +1,10 @@
-# Homework-8.3.5
+![](http://143.42.108.232/pvt/Noroff-64.png)
+# Noroff
+## Back-end Development Year 1
+### API Module 3 Lesson 5 - Self Study
 
-This is the repository with example solution for task in lesson 8.3.5
+Completed code for the task 5
+
+---
 Documentation is available at /doc endpoint.
-Remember to install dependecies with the command "npm install" set up the .env file and set up the database in Workbench.
+Remember to install dependencies with the command "npm install" set up the .env file and set up the database in Workbench.
